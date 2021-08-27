@@ -15,11 +15,11 @@ C:/Users/franc/Desktop/ProyectNoobGame2
 -logFile
 Logs/AssetImportWorker4.log
 -srvPort
-63331
+54923
 Successfully changed project path to: C:/Users/franc/Desktop/ProyectNoobGame2
 C:/Users/franc/Desktop/ProyectNoobGame2
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 241.98 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 203.62 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.7f1 (d91830b65d9b)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
@@ -34,16 +34,283 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56252
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56796
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.035770 seconds.
+Registered in 0.004032 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 164.34 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 175.75 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.813 seconds
+- Completed reload, in  1.825 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.228708 seconds.
+Registered in 0.006753 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\franc\Desktop\ProyectNoobGame2\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\franc\Desktop\ProyectNoobGame2\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 185.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  9.756 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.54 seconds
+Refreshing native plugins compatible for Editor in 1.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5363 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 224.0 MB.
+System memory in use after: 224.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5836.
+Total: 3.696300 ms (FindLiveObjects: 0.486900 ms CreateObjectMapping: 0.347600 ms MarkObjects: 2.732700 ms  DeleteObjects: 0.128400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Fran 1/jefe_anillo.controller
+  artifactKey: Guid(74d7e80e63bbd2440bc125be7d4f19ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fran 1/jefe_anillo.controller using Guid(74d7e80e63bbd2440bc125be7d4f19ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c847cccef3507aee0a8ec8c051b11139') in 0.452979 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007839 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\franc\Desktop\ProyectNoobGame2\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\franc\Desktop\ProyectNoobGame2\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.057 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5083 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 209.6 MB.
+System memory in use after: 210.1 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 5839.
+Total: 5.508200 ms (FindLiveObjects: 0.527300 ms CreateObjectMapping: 0.731500 ms MarkObjects: 4.210000 ms  DeleteObjects: 0.036800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 172.244000 seconds.
+  path: Assets/Fran 1/Clip jefe.anim
+  artifactKey: Guid(c3cfd185bf0c19241a8afb2237419392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fran 1/Clip jefe.anim using Guid(c3cfd185bf0c19241a8afb2237419392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d1c71a36bbfd52e8de348cff62f6796') in 0.057129 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Fran 1/Animation Jefe.anim
+  artifactKey: Guid(2e3d30a6b438e0c4c9023a27ddf11c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fran 1/Animation Jefe.anim using Guid(2e3d30a6b438e0c4c9023a27ddf11c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '564f748c8a740e71b8cc383829923e54') in 0.003867 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006442 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\franc\Desktop\ProyectNoobGame2\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\franc\Desktop\ProyectNoobGame2\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.00 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.584 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.02 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5083 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 209.7 MB.
+System memory in use after: 210.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 5842.
+Total: 3.520400 ms (FindLiveObjects: 0.439800 ms CreateObjectMapping: 0.373000 ms MarkObjects: 2.668500 ms  DeleteObjects: 0.038100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.713736 seconds.
+  path: Assets/Fran 1/JefeModelo
+  artifactKey: Guid(c91d80d651f6208498a5418008e2f28b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fran 1/JefeModelo using Guid(c91d80d651f6208498a5418008e2f28b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6b9768d8fb3ad3fa6e92bf2226d3204') in 0.013517 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 2.127813 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\franc\Desktop\ProyectNoobGame2\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\franc\Desktop\ProyectNoobGame2\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.910 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5083 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 209.8 MB.
+System memory in use after: 210.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 5845.
+Total: 274.204900 ms (FindLiveObjects: 0.502300 ms CreateObjectMapping: 0.312100 ms MarkObjects: 273.329500 ms  DeleteObjects: 0.059000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 387.500264 seconds.
+  path: Assets/Fran 1/Animation
+  artifactKey: Guid(d8075b078aa362147b571d9600fc9788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fran 1/Animation using Guid(d8075b078aa362147b571d9600fc9788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f3433044bc40e06148cdfff15b23a84') in 0.369274 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 622.694236 seconds.
+  path: Assets/Fran 1/Script/Proyectiles.cs
+  artifactKey: Guid(6ec4a061bc1d84e4d85103f02d994f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fran 1/Script/Proyectiles.cs using Guid(6ec4a061bc1d84e4d85103f02d994f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b1b95580f706ecbe7a8fee9b391efa3') in 0.162672 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 52.563765 seconds.
+  path: Assets/Fran 1/Script/Personaje.cs
+  artifactKey: Guid(2e410d69f97290442813c2b56fdabf22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fran 1/Script/Personaje.cs using Guid(2e410d69f97290442813c2b56fdabf22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa988dcba2d8168f86d6cc0a05b6a775') in 0.251892 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.122900 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\franc\Desktop\ProyectNoobGame2\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\franc\Desktop\ProyectNoobGame2\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.736 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5084 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 209.8 MB.
+System memory in use after: 210.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 5849.
+Total: 4.734400 ms (FindLiveObjects: 0.454900 ms CreateObjectMapping: 0.331700 ms MarkObjects: 3.894200 ms  DeleteObjects: 0.051800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 340.883912 seconds.
+  path: Assets/Fran 1/Script/Proyectiles.cs
+  artifactKey: Guid(6ec4a061bc1d84e4d85103f02d994f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fran 1/Script/Proyectiles.cs using Guid(6ec4a061bc1d84e4d85103f02d994f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e2421ded8d991dbac81a3bf2fe9d539') in 0.017727 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 173.121025 seconds.
+  path: Assets/Fran 1/Script/Proyectiles.cs
+  artifactKey: Guid(6ec4a061bc1d84e4d85103f02d994f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fran 1/Script/Proyectiles.cs using Guid(6ec4a061bc1d84e4d85103f02d994f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f63a92f7f2010713f515c1ca9b74fb9b') in 0.011968 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009240 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\franc\Desktop\ProyectNoobGame2\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\franc\Desktop\ProyectNoobGame2\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.09 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.731 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5084 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 209.8 MB.
+System memory in use after: 210.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 5852.
+Total: 9.733900 ms (FindLiveObjects: 1.024100 ms CreateObjectMapping: 0.878900 ms MarkObjects: 7.720100 ms  DeleteObjects: 0.108000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.470971 seconds.
+  path: Assets/Fran 1/Script/Proyectil_Basic.cs
+  artifactKey: Guid(b2520be42c9780a46b02b2b96d0357a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fran 1/Script/Proyectil_Basic.cs using Guid(b2520be42c9780a46b02b2b96d0357a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da7028c7b389319839b07d981b89be0a') in 0.029191 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006279 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\franc\Desktop\ProyectNoobGame2\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\franc\Desktop\ProyectNoobGame2\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.275 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.04 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5085 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 209.9 MB.
+System memory in use after: 210.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 5856.
+Total: 4.678500 ms (FindLiveObjects: 0.446100 ms CreateObjectMapping: 0.343100 ms MarkObjects: 3.850500 ms  DeleteObjects: 0.037500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 193.174481 seconds.
+  path: Assets/Fran 1/Script/Proyectil_Basic.cs
+  artifactKey: Guid(b2520be42c9780a46b02b2b96d0357a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fran 1/Script/Proyectil_Basic.cs using Guid(b2520be42c9780a46b02b2b96d0357a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '137a3d8ae58d6e3b638c90fdce1ef808') in 0.026883 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.254304 seconds.
+  path: Assets/Fran 1/Script/Proyectil_Basic.cs
+  artifactKey: Guid(b2520be42c9780a46b02b2b96d0357a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fran 1/Script/Proyectil_Basic.cs using Guid(b2520be42c9780a46b02b2b96d0357a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21729a051355d4e82557545a75e77b33') in 0.007502 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 93.910375 seconds.
+  path: Assets/Fran 1/Script/Proyectil_Basic.cs
+  artifactKey: Guid(b2520be42c9780a46b02b2b96d0357a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fran 1/Script/Proyectil_Basic.cs using Guid(b2520be42c9780a46b02b2b96d0357a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9720f042fe678f54fae3717a789d50a6') in 0.013855 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 85.419277 seconds.
+  path: Assets/Fran 1/Script/Proyectil_Basic.cs
+  artifactKey: Guid(b2520be42c9780a46b02b2b96d0357a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fran 1/Script/Proyectil_Basic.cs using Guid(b2520be42c9780a46b02b2b96d0357a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '129078f9132d8af2e964a7db552f5f99') in 0.005361 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 56.658815 seconds.
+  path: Assets/Fran 1/Script/Proyectil_Basic.cs
+  artifactKey: Guid(b2520be42c9780a46b02b2b96d0357a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fran 1/Script/Proyectil_Basic.cs using Guid(b2520be42c9780a46b02b2b96d0357a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca2cbcbb505e94a2948b0a263df6fd1b') in 0.011883 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.055637 seconds.
+  path: Assets/Fran 1/Script/Proyectil_Basic.cs
+  artifactKey: Guid(b2520be42c9780a46b02b2b96d0357a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fran 1/Script/Proyectil_Basic.cs using Guid(b2520be42c9780a46b02b2b96d0357a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '452703a585c6d3406fac36f43fb4c9f6') in 0.008431 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 409.636992 seconds.
+  path: Assets/Fran 1/Script/Proyectil_Basic.cs
+  artifactKey: Guid(b2520be42c9780a46b02b2b96d0357a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fran 1/Script/Proyectil_Basic.cs using Guid(b2520be42c9780a46b02b2b96d0357a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6108c7951751b44d02cfde8b398f94b8') in 0.021150 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.535147 seconds.
+  path: Assets/Fran 1/Script/Boos.cs
+  artifactKey: Guid(fb8cb0afa66053a4ca4ab35d16b92a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fran 1/Script/Boos.cs using Guid(fb8cb0afa66053a4ca4ab35d16b92a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ac3efada6e04271124c1720e21a73a7') in 0.031822 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 73.198661 seconds.
+  path: Assets/Fran 1/Script/Esfera.cs
+  artifactKey: Guid(0180a6c8d3b7fe341a34685812518840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fran 1/Script/Esfera.cs using Guid(0180a6c8d3b7fe341a34685812518840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7818f63fbc1b4c6500d75d04fd644a94') in 0.315854 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
